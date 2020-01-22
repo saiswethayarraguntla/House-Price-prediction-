@@ -1,0 +1,2 @@
+# House-Price-prediction-
+Predicting House Price is quiet an interesting and popular project that people work on. The project I did will differentiate the conventional project by introducing the visual data into the dataset. The goal of the project is to build a novel automatic house price estimation system by using both textual and visual inputs, other than only using textual information such as area, neighborhood, and number of bedrooms. 
